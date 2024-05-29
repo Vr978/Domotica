@@ -21,8 +21,8 @@
 
 <div style="display: flex; gap: 20px;align-items:center;">
 
-  <img src="./assets/img/UI1.png" alt="UI-1" style="width: 38%;height:200px;position: relative; left: 20px">
-  <img src="./assets/img/UI2.png" alt="UI-2" style="width: 38%;height:200px;position: relative; left: 70px">
+  <img src="./assets/img/UI1.png" alt="UI-1" style="width: 48%;height:200px;position: relative; left: 20px">
+  <img src="./assets/img/UI2.png" alt="UI-2" style="width: 48%;height:200px;position: relative; left: 70px">
 
 </div>
 
