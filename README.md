@@ -19,10 +19,12 @@
 
 ## UI
 
-![UIImage](./assets/img/UI1.png)
+<div style="display: flex; gap: 20px;">
 
+  <img src="./assets/img/UI1.png" alt="UI-1" style="width: 48%;">
+  <img src="./assets/img/UI2.png" alt="UI-2" style="width: 48%;">
 
-![UIImage](./assets/img/UI2.png)
+</div>
 
 
 ![UIImage](./assets/img/UI3.png)
