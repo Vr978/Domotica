@@ -1,42 +1,48 @@
-Domotica: Your Dream Smart Home Awaits 🏡 ✨
-Smart Home, Elevated. Domotica isn't just a website; it's your future smart home, brought to life with captivating 3D virtual tours. Crafted with HTML, CSS, JavaScript, and the robust Django framework, Domotica empowers you to effortlessly control every facet of your home.
+# Domotica: Your Dream Smart Home Awaits 🏡 ✨
 
-Key Features 🔑
+**Smart Home, Elevated.** Domotica isn't just a website; it's your future smart home, brought to life with captivating 3D virtual tours. Crafted with HTML, CSS, JavaScript, and the robust Django framework, Domotica empowers you to effortlessly control every facet of your home.
 
-Immersive 3D Virtual Tours: Step into your dream home before it's even built! Explore every nook and cranny, personalize finishes, and experience the layout in stunning 3D. 🚶‍♂️💫
-Elegant UI Design: Domotica's interface is a masterpiece of form and function. Clean lines, seamless navigation, and personalized themes make managing your home a delightful experience. ✨🎨
+## Key Features 🔑
 
-Upcoming Enhancements 🚧
+- **Immersive 3D Virtual Tours:** Step into your dream home before it's even built! Explore every nook and cranny, personalize finishes, and experience the layout in stunning 3D. 🚶‍♂️💫
+- **Elegant UI Design:** Domotica's interface is a masterpiece of form and function. Clean lines, seamless navigation, and personalized themes make managing your home a delightful experience. ✨🎨
 
-Energy Optimization: Intelligently manage your energy consumption and reduce your bills with insightful data and automated adjustments. ⚡📊
-Enhanced Security: Fortify your home's security with integrated cameras, motion sensors, and smart locks, all accessible through Domotica. 🛡️👀
+## Upcoming Enhancements 🚧
 
-Tech Stack 🛠️
+- **Energy Optimization:** Intelligently manage your energy consumption and reduce your bills with insightful data and automated adjustments. ⚡📊
+- **Enhanced Security:** Fortify your home's security with integrated cameras, motion sensors, and smart locks, all accessible through Domotica. 🛡️👀
 
-Frontend: HTML, CSS, JavaScript
-Backend: Django
+## Tech Stack 🛠️
 
-Get Started 🚀
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Django
 
-Clone the Repository:
+## UI
 
-Bash
+
+
+## Get Started 🚀
+
+**Clone the Repository:**
+
+```bash
 git clone https://github.com/Vr978/Domotica.git
+```
 
+**Install Django**
 
-Install Dependencies:
-
-Bash
+```bash
 pip install python
 pip install django
+```
 
-Launch the Server:
+**Launch the server**
 
-Bash
+```bash
 python manage.py runserver
+```
 
-Join the Community! 🤝
-
+# Join the Community! 🤝
 We thrive on community contributions! Feel free to report issues, submit pull requests, or share your innovative ideas to enhance Domotica's capabilities.
 
-Let's shape the future of smart homes together! 🌟
+# Let's shape the future of smart homes together! 🌟
