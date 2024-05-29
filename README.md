@@ -19,10 +19,10 @@
 
 ## UI
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px;align-items:center;">
 
-  <img src="./assets/img/UI1.png" alt="UI-1" style="width: 48%;">
-  <img src="./assets/img/UI2.png" alt="UI-2" style="width: 48%;">
+  <img src="./assets/img/UI1.png" alt="UI-1" style="width: 48%;height:330px">
+  <img src="./assets/img/UI2.png" alt="UI-2" style="width: 48%;height:330px">
 
 </div>
 
